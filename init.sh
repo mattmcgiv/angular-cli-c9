@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
+git clone http://github.com/creationix/nvm.git .nvm
 
 export NVM_DIR="$HOME/.nvm"
 
