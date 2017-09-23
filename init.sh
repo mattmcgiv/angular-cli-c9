@@ -10,4 +10,6 @@ npm install -g @angular/cli # install ng cli
 
 npm link @angular/cli
 
+npm install --save-dev @angular/cli@latest
+
 ng -v
