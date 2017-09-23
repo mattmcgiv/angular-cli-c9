@@ -9,3 +9,5 @@ npm update #update
 npm install -g @angular/cli # install ng cli
 
 npm link @angular/cli
+
+ng -v
