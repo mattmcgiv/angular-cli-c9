@@ -1,5 +1,7 @@
 #!/bin/bash
 
+$HOME/.nvm/nvm.sh
+
 nvm install 8.2.1 # node newer version install
 
 npm install -g npm
