@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone http://github.com/creationix/nvm.git .nvm
+git clone http://github.com/creationix/nvm.git ~/.nvm
 
 export NVM_DIR="$HOME/.nvm"
 
